@@ -23,7 +23,7 @@
 	word-spacing: 0px;
 }
 
-.button:hover {
+.button:is(:hover, :focus) {
 	background-color: var(--blue-300);
 	border-color: var(--blue-600);
 }
