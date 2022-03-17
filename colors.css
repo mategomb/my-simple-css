@@ -122,13 +122,4 @@ html {
 
 	--black: #000;
 	--white: #fff;
-
-	--primary: var(--blue);
-	--secondary: var(--gray-600);
-	--success: var(--green);
-	--info: var(--cyan);
-	--warning: var(--yellow);
-	--danger: var(--red);
-	--light: var(--gray-100);
-	--dark: var(--gray-900);
 }
