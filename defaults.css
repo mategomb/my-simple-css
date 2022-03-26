@@ -6,4 +6,5 @@
 
 body {
 	font-size: var(--default-font-size);
+	margin: 0;
 }
