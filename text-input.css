@@ -1,0 +1,7 @@
+.text-input {
+	border: 1px solid var(--gray-500);
+	border-radius: 4px;
+	font-family: sans-serif;
+	font-size: var(--default-font-size);
+	padding: 8px 10px;
+}

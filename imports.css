@@ -1,3 +1,6 @@
 @import "defaults.css";
 @import "colors.css";
 @import "button.css";
+@import "text-input.css";
+
+@import "config.css";
